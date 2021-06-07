@@ -1,3 +1,3 @@
 # ImageSketcher
 
-A description of this package.
+package for drawing UIImages with CoreGraphics
